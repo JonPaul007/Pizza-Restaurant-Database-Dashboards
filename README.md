@@ -58,6 +58,6 @@ Items Dashboard: Monitors inventory usage and suggests restocking needs.
 
 Staff Dashboard: Analyzes employee performance and efficiency in handling orders.
 
- * Key Takeaways *
+  Key Takeaways *
 
 This project showcases realistic data analysis for a restaurant business, utilizing SQL for data extraction and Looker Studio for visualization. The database was hosted on Railway, which was used to establish a connection between the SQL database and Google Looker for data visualization. By structuring data effectively, businesses can make data-driven decisions to improve operations.
