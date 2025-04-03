@@ -22,6 +22,8 @@ Items Dashboard Query → Inventory query #1.sql & Inventory query #2.sql
 
 Staff Dashboard Query → staff query.txt
 
+QUERYS ARE ALL LOCATED IN QUERYS-TO-CREATE-DASHBOARDS BRANCH
+
 3️⃣ Dashboards
 
 The visual dashboards showcasing key metrics are also uploaded in this repository:
