@@ -24,12 +24,6 @@ Staff Dashboard Query → StaffQuery.txt
 
 The visual dashboards showcasing key metrics are also uploaded in this repository:
 
-Orders Dashboard → 
-
-Items Dashboard → 
-
-Staff Dashboard → 
-
 🔧 How to Use
 
 1️⃣ Restore the Database
