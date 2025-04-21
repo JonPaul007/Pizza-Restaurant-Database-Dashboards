@@ -13,7 +13,7 @@ This project features a real dataset collected from a mock pizza ordering site, 
 PizzaResDB.sql → The full MySQL database dump file. This can be used to recreate the entire database structure and data.
 
 
-2️2.) SQL Queries for Dashboards - (QUERIES-TO-CREATE-DASHBOARDS branch )
+2️.) SQL Queries for Dashboards - (QUERIES-TO-CREATE-DASHBOARDS branch )
 
 The following SQL queries were used to generate insights for the dashboards:
 
@@ -26,7 +26,7 @@ Staff Dashboard Query → staff query.txt
 All queries are located in the QUERIES-TO-CREATE-DASHBOARDS BRANCH, Not in the main branch.
 
 
-3️⃣ Dashboards***
+3️.) Dashboards!
 
 The visual dashboards showcasing key metrics are ALL ACCESSIBLE through this link: [ https://lookerstudio.google.com/reporting/f010b731-186c-45f3-bfdc-5c6389c92d9d ] (It is attached to the top of the read me as well) 
 This link will give full access to the dashboards listed below:
@@ -68,6 +68,8 @@ Items Dashboard: Monitors inventory usage and suggests restocking needs.
 
 Staff Dashboard: Analyzes employee performance and efficiency in handling orders.
 
-  Takeaways *
+
+
+Takeaways:
 
 This project showcases realistic data analysis for a restaurant business, utilizing SQL for data extraction and Looker Studio for visualization. The database was hosted on Railway, which was used to establish a connection between the SQL database and Google Looker for data visualization. By structuring data effectively, businesses can make data-driven decisions to improve operations.
