@@ -13,7 +13,7 @@ This project features a real dataset collected from a mock pizza ordering site, 
 PizzaResDB.sql → The full MySQL database dump file. This can be used to recreate the entire database structure and data.
 
 
-2️.) SQL Queries for Dashboards - (QUERIES-TO-CREATE-DASHBOARDS branch )
+2️.) SQL Queries for Dashboards - (Queries-to-create-dashboards branch )
 
 The following SQL queries were used to generate insights for the dashboards:
 
@@ -23,7 +23,7 @@ Items Dashboard Query → Inventory query #1.sql & Inventory query #2.sql
 
 Staff Dashboard Query → staff query.txt
 
-All queries are located in the QUERIES-TO-CREATE-DASHBOARDS BRANCH, Not in the main branch.
+All queries are located in the Queries-to-create-dashboards branch, Not in the main branch.
 
 
 3️.) Dashboards!
