@@ -6,7 +6,7 @@ Pizza Restaurant Database & Dashboards [https://lookerstudio.google.com/reportin
 
 This project features a real dataset collected from a mock pizza ordering site, where users could place fictional orders. The database tracks orders, inventory usage, and staff activity. The goal was to analyze key business metrics through SQL queries and visualize insights via dashboards.
 
-📂 Repository Contents
+~ Repository Contents
 
 1️.) Database Dump File - (Main branch) 
 
@@ -40,7 +40,7 @@ This link will give full access to the dashboards listed below:
 The dashboards were created in Google Looker.
 
 
-🔧 How to Use
+~ How to Use
 
 1️.) Restore the Database
 
